@@ -1,22 +1,17 @@
 [
   {
     "id": 1,
-    "title": "UI/UX Design",
-    "value": "uiux"
-  },
-  {
-    "id": 2,
-    "title": "Html & Css",
+    "title": "Html/Css/Js",
     "value": "html"
   },
   {
-    "id": 3,
-    "title": "React Js",
+    "id": 2,
+    "title": "React",
     "value": "react"
   },
   {
-    "id": 4,
-    "title": "Node Js",
-    "value": "node"
+    "id": 3,
+    "title": "WordPress",
+    "value": "wordpress"
   }
 ]
