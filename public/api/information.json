@@ -1,0 +1,21 @@
+{
+  "firstName": "Cong",
+  "lastName": "Liu",
+  "fullName": "CONG LIU",
+  "preferredName": "Cody",
+  "thumbImage": "/images/profile.jpg",
+  "largeImage": "/images/about-image.jpg",
+  "bio": "As a frontend web developer, I craft captivating and responsive user interfaces using HTML, CSS, and JavaScript to provide users with an engaging and seamless experience.",
+  "age": null,
+  "nationality": "Chinese",
+  "languages": ["English", "Chinese"],
+  "address": "Jersey St North, Asquith NSW 2077, Australia",
+  "freelance": "Available",
+  "socialAddress": {
+    "facebook": "https://www.facebook.com/cong.liu.5680899",
+    "github": "https://github.com/",
+    "linkedin": "https://linkedin.com/in/codyliu881"
+  },
+  "phoneNumbers": ["+61450150881"],
+  "emailAddress": ["codyliu881@gmail.com", "liucong66@gmail.com"]
+}

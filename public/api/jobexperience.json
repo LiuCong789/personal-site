@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Front End Developer",
+    "meta": "Ionata Digital.",
+    "ftext": "• Led the development of the website for TasBulk using a tech stack of HTML, CSS, JavaScript, PHP and AWS.",
+    "stext": "• Provided support for troubleshooting previously-built websites with assigned tickets.",
+    "year": "Oct 2022 - Jan 2023"
+  },
+  {
+    "id": 2,
+    "title": "Freelance Web Developer",
+    "meta": null,
+    "ftext": "• Collaborated with clients to discuss project requirements, as well as provided updates.",
+    "stext": "• Created a website from scratch for an accounting firm, using HTML, CSS and JavaScript.",
+    "year": "Aug 2022 - Present"
+  },
+  {
+    "id": 3,
+    "title": "Educator",
+    "meta": "Child's Play Early Learning.",
+    "ftext": "• Implemented daily routines and educational activities that support children’s development.",
+    "stext": "• Built positive and supportive relationships with children and their families.",
+    "year": "Jun 2021 - Jun 2022"
+  },
+  {
+    "id": 4,
+    "title": "3D Printer Trainer",
+    "meta": "Choc Edge.",
+    "ftext": "• Conducted technical training and provided support for clients using chocolate 3D printers. ",
+    "stext": "• Experimented 3D slicer software with adjusting parameters to achieve optimal printing outcomes.",
+    "year": "Feb 2016 - May 2019"
+  }
+]

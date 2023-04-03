@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Certifications of Web Development",
+    "meta": "Udemy.",
+    "ftext": "I have obtained multiple certifications, some of which include:",
+    "stext": "<The Complete Web Development Bootcamp>, <Build Responsive Real-World Websites with HTML and CSS>, <Crash Course: Build a Full-Stack Web App>, <Become a WordPress Developer>, <Ultimate AWS Certified Cloud Practitioner>.",
+    "year": "2021 - Present"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Diploma of Leadership and Management & Diploma of Early Childhood Education and Care",
+    "meta": "National Institute of Education and Technology.",
+    "text": null,
+    "year": "2019 - 2021"
+  },
+  {
+    "id": 3,
+    "title": "Bachelor of Commerce",
+    "meta": "The University of Sydney.",
+    "text": null,
+    "year": "2010 - 2014"
+  }
+]

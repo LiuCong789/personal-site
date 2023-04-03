@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "UI/UX Design",
+    "text": "Create visually appealing and user-friendly website interfaces that engage your audience and enhance their experience.",
+    "icon": "/icons/quill-pen-line.svg"
+  },
+  {
+    "id": 2,
+    "title": "Web Development",
+    "text": "Build responsive and functional websites that meet your business needs, as well as integrations with third-party services.",
+    "icon": "/icons/code-s-slash-line.svg"
+  },
+  {
+    "id": 3,
+    "title": "Website Hosting",
+    "text": "Provide domain name registration service and host your website on a server including AWS for scalability, high availability, and cost-effectiveness.",
+    "icon": "/icons/cloud-server.svg"
+  }
+]

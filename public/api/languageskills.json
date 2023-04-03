@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3,
+    "title": "Next.js",
+    "percentage": 80
+  },
+  {
+    "id": 4,
+    "title": "Tailwind & Bootstrap",
+    "percentage": 85
+  },
+  {
+    "id": 5,
+    "title": "Content Management System (WordPress)",
+    "percentage": 75
+  },
+  {
+    "id": 6,
+    "title": "GitHub",
+    "percentage": 80
+  },
+  {
+    "id": 7,
+    "title": "Docker & AWS Foundation",
+    "percentage": 70
+  },
+  {
+    "id": 8,
+    "title": "Figma",
+    "percentage": 75
+  },
+  {
+    "id": 9,
+    "title": "REST API",
+    "percentage": 70
+  },
+  {
+    "id": 9,
+    "title": "Jira & Confluence",
+    "percentage": 75
+  }
+]
